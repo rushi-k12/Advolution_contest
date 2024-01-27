@@ -1,6 +1,6 @@
 ADVOLUTON 9.0 - Crime Analyst Challenge
 Team Information
-Team Name: [Your Team Name]
+Team Name: [Team]
 
 Introduction
 Welcome to the ADVOLUTON 9.0 Crime Analyst Challenge! Our team is excited to delve into the dataset, analyze crime-related activities, and present valuable insights. This presentation is a result of rigorous analysis, creative thinking, and strategic planning.
